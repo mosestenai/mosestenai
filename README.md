@@ -32,7 +32,7 @@
 
 - 💞️ I’m looking to collaborate on solutions to ease service delivery using technology
 
-- 📝 I regularly write articles on [Eazistey Blog](https://eazistey.co.ke/nav/viewsingleblog/13)
+- 📝 I regularly write articles on [Eazistey Blog](https://eazistey.co.ke/nav/viewsingleblog/27)
 
 - 💬 Ask me about **React, react-native, nodejs, mongodb, postgresql, next js,PHP, typescript, mysql,Laravel**
 

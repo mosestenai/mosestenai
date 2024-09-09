@@ -36,7 +36,7 @@
 
 - 💬 Ask me about **React, react-native, nodejs, mongodb, postgresql, next js,PHP, typescript, mysql,Laravel**
 
-- 📫 Feel free to reach me out **sofwareengineer@mosestenai.me.ke** or by phone **254719412833**
+- 📫 Feel free to reach me out **engineer@mosestenai.me.ke** or by phone **254719412833**
 
 <!--Intro end-->
 
@@ -120,4 +120,4 @@
 ----------------------------------------------------------------------
 Credit: [Tenai Moses](https://github.com/mosestenai)
 
-Last Edited on: 02/6/2023
+Last Edited on: 02/6/2024
